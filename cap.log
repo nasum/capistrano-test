@@ -1,0 +1,63 @@
+** Invoke production (first_time)
+** Execute production
+** Invoke load:defaults (first_time)
+** Execute load:defaults
+** Invoke deploy (first_time)
+** Execute deploy
+** Invoke deploy:starting (first_time)
+** Execute deploy:starting
+** Invoke deploy:check (first_time)
+** Invoke git:check (first_time)
+** Invoke git:wrapper (first_time)
+** Execute git:wrapper
+** Execute git:check
+** Execute deploy:check
+** Invoke deploy:check:directories (first_time)
+** Execute deploy:check:directories
+** Invoke deploy:check:linked_dirs (first_time)
+** Execute deploy:check:linked_dirs
+** Invoke deploy:check:make_linked_dirs (first_time)
+** Execute deploy:check:make_linked_dirs
+** Invoke deploy:check:linked_files (first_time)
+** Execute deploy:check:linked_files
+** Invoke deploy:set_previous_revision (first_time)
+** Execute deploy:set_previous_revision
+** Invoke deploy:started (first_time)
+** Execute deploy:started
+** Invoke deploy:updating (first_time)
+** Invoke deploy:new_release_path (first_time)
+** Execute deploy:new_release_path
+** Invoke git:create_release (first_time)
+** Invoke git:update (first_time)
+** Invoke git:clone (first_time)
+** Invoke git:wrapper
+** Execute git:clone
+** Execute git:update
+** Execute git:create_release
+** Execute deploy:updating
+** Invoke deploy:set_current_revision (first_time)
+** Invoke git:set_current_revision (first_time)
+** Execute git:set_current_revision
+** Execute deploy:set_current_revision
+** Invoke deploy:symlink:shared (first_time)
+** Execute deploy:symlink:shared
+** Invoke deploy:symlink:linked_files (first_time)
+** Execute deploy:symlink:linked_files
+** Invoke deploy:symlink:linked_dirs (first_time)
+** Execute deploy:symlink:linked_dirs
+** Invoke deploy:updated (first_time)
+** Execute deploy:updated
+** Invoke deploy:publishing (first_time)
+** Execute deploy:publishing
+** Invoke deploy:symlink:release (first_time)
+** Execute deploy:symlink:release
+** Invoke deploy:published (first_time)
+** Execute deploy:published
+** Invoke deploy:finishing (first_time)
+** Execute deploy:finishing
+** Invoke deploy:cleanup (first_time)
+** Execute deploy:cleanup
+** Invoke deploy:finished (first_time)
+** Execute deploy:finished
+** Invoke deploy:log_revision (first_time)
+** Execute deploy:log_revision
